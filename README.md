@@ -2,13 +2,13 @@
 
 Good Luck:v
 
-#Installation
+# Installation
 
 	git clone https://github.com/S03HT3T/Boolean_Injector.git
 	cd Boolean_Injector
 	chmod +x boolean_injector.py
 	
-#Usage
+# Usage
 
 	python3 boolean_injector.py
 	
