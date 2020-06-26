@@ -4,7 +4,7 @@ Good Luck:v
 
 #Installation
 
-	git clone https://github.com/S03HT3T//Boolean_Injector.git
+	git clone https://github.com/S03HT3T/Boolean_Injector.git
 	cd Boolean_Injector
 	chmod +x boolean_injector.py
 	
